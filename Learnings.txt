@@ -1,0 +1,13 @@
+###These are my learnings from this project###
+
+1. I learnt how to create a pickle file and how I can load my model and dump it so that I can send it to production
+
+2. Difference between pickle and joblib
+| Feature              | pickle                          | joblib                            |
+| -------------------- | ------------------------------- | --------------------------------- |
+| Use case             | General Python objects          | ML models with large NumPy arrays |
+| Speed / efficiency   | Slower for big arrays           | Fast for big arrays               |
+| Common mistake       | Saving string instead of object | Rare, mostly correct              |
+| sklearn recommended? | Can work                        | ✅ Preferred                      |
+
+3. 
