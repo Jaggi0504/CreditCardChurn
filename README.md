@@ -5,3 +5,6 @@
 3. Created a pickle file and loaded that pickle file into the environment.
 4. Used Flask framework for building APIs (predict_api/predict).
 5. Created a DockerFile and containerize the application.
+
+
+<img width="1470" height="798" alt="Image" src="https://github.com/user-attachments/assets/5b59c4aa-31b0-493b-89c0-1b95cd97bf2c" />
